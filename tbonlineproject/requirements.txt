@@ -1,4 +1,4 @@
-Django==1.4.21
+Django==2.2.24
 django-contact-form==0.3
 django-disqus==0.5
 #django-fields==0.3.0
